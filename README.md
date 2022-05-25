@@ -1,7 +1,7 @@
 # Challenge Course DEVQUEST
 
 ## 1º Challenge 
-    Componente que colore e transforma um texto paramaiúsculo (uppercase) utilizando JS.
+    Componente que colore e transforma um texto para maiúsculo (uppercase) utilizando JS.
 
     O nome do componente e o nome das props devem ser bempensados, lembre-se de dar bons nomes que sejam fáceis deoutras pessoas entenderem.
 
