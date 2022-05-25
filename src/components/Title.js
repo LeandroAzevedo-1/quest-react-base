@@ -12,4 +12,4 @@ Title.defaultProps = {
     padding: "20px" // created whit a defined padding 
 }
 
-export default Title
+export {Title}
